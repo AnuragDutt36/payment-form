@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Responsive Payment Website
 
 This is a responsive payment website template that allows users to input their payment details without processing the payment. It is built using HTML and CSS only and provides a user-friendly interface for entering payment information.
@@ -27,3 +28,8 @@ To get started with the payment website, follow these steps:
 
 
 
+=======
+# payment-form
+For building this page I used only Html and CSS.  
+I created this page when I was in learning phase.
+>>>>>>> fe35cae (Modifiying)
